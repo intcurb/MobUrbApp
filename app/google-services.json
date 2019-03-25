@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "268352072638",
+    "firebase_url": "https://informe-trafego-catanduva.firebaseio.com",
+    "project_id": "informe-trafego-catanduva",
+    "storage_bucket": "informe-trafego-catanduva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268352072638:android:1b66d0fe78712a7b",
+        "android_client_info": {
+          "package_name": "br.com.infotransctd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268352072638-7nul0s3gmh5hjbd7nanu1r6lmnj4mt1a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.infotransctd",
+            "certificate_hash": "7f25cba3ca347a792ea0c810410ebc13068c0dd4"
+          }
+        },
+        {
+          "client_id": "268352072638-d1kmp60fpsjefc9fut39bn7ob9r56v7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkrpmE3-21lvEcSttfFt-NxbwmWpSxJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268352072638-d1kmp60fpsjefc9fut39bn7ob9r56v7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268352072638:android:4199dd05b3ca17b9",
+        "android_client_info": {
+          "package_name": "com.example.matheusquessada.informetrafegoctd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268352072638-18ik1i7m1d7mi4sj87db279i43o0feck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matheusquessada.informetrafegoctd",
+            "certificate_hash": "f40891532638f4e978c0af4b53ca5a8cd9205df0"
+          }
+        },
+        {
+          "client_id": "268352072638-d1kmp60fpsjefc9fut39bn7ob9r56v7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkrpmE3-21lvEcSttfFt-NxbwmWpSxJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268352072638-d1kmp60fpsjefc9fut39bn7ob9r56v7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

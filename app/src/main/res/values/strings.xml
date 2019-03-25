@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobUrb</string>
+    <string name="txtVehicles">Informe o <b>veículo</b> que está utilizando:</string>
+    <string name="type1"><b>C</b>arro</string>
+    <string name="type2"><b>M</b>oto</string>
+    <string name="type3"><b>B</b>icicleta</string>
+    <string name="type4"><b>Ô</b>nibus</string>
+    <string name="type5"><b>C</b>aminhão</string>
+    <string name="type6"><b>N</b>ão <b>I</b>nformar</string>
+    <string name="btnStart">Iniciar</string>
+    <string name="btnExit">Sair do App</string>
+    <string name="btnStop">Parar</string>
+</resources>
